@@ -1,0 +1,2 @@
+TRUNCATE TABLE countryindexes 
+RESTART IDENTITY;
