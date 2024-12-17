@@ -27,7 +27,7 @@ Countries are color-coded:
 - **3 KPI cards** for each country category.
 
 We also have the option to filter the dataset using a slicer.  
-**Available time period:** 1971-2021.
+**Available time period:** 1970-2021.
 
 **Note:** The ex-Soviet countries (Kazakhstan, Belarus) do not have data before 1990 because they were part of the Soviet Union.
 
